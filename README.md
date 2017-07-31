@@ -1,6 +1,10 @@
 ## 在线Markdown转换器
 
-可以用来快速的将Markdown文章转换到微信公众号支持的格式，该工具基于https://github.com/barretlee/online-markdown修改所得。
+可以用来快速的将Markdown文章转换到微信公众号支持的格式，该工具基于[online-markdown](https://github.com/barretlee/online-markdown)修改所得。
+
+## 样例
+
+demo：http://blog.didispace.com/tools/online-markdown/
 
 ## 改进内容：
 
