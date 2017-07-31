@@ -1,15 +1,11 @@
-# Online Markdown Converter
+## 在线Markdown转换器
 
-A online markdown converter specially for Wechat Public formatting.
+可以用来快速的将Markdown文章转换到微信公众号支持的格式，该工具基于https://github.com/barretlee/online-markdown修改所得。
 
-- Online Address: <http://md.barretlee.com/>
-- Issue & Suggestion: <https://github.com/barretlee/online-markdown/issues/new>
+## 改进内容：
 
-### Changelog
+- 支持左右两栏布局，左侧用于编辑，右侧实时展现预览结果
 
-- 支持更换代码样式主题
-- 代码长度溢出时横向滚动
+## LICENSE
 
-### LICENSE
-
-MIT. Thanks for @Phodal.
+MIT. Thanks for @Phodal. @barretlee
